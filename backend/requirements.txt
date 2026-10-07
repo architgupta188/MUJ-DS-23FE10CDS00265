@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+vaderSentiment
+google-genai
+pydantic
+nltk
