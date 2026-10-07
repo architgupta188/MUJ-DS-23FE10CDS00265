@@ -1,6 +1,14 @@
 # ReviewRadar — AI Product Review Analyzer
 
-> **NLP Capstone Project** · B.Tech Data Science  
+> **Name:** Archit Gupta  
+> **Reg. No.:** 23FE10CDS00265  
+> **Branch:** CSE (Data Science)  
+> **Section:** D  
+> **NLP Section:** B  
+
+---
+
+> **NLP Capstone Project** — B.Tech Data Science  
 > Demonstrating Traditional NLP (VADER) + LLM-based NLP (Google Gemini AI)
 
 ---
